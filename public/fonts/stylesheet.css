@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Ginga>';
+    src: url('Ginga.eot');
+    src: url('Ginga.eot?#iefix') format('embedded-opentype'),
+        url('Ginga.woff2') format('woff2'),
+        url('Ginga.woff') format('woff'),
+        url('Ginga.ttf') format('truetype'),
+        url('Ginga.svg#Ginga') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
