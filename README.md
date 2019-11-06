@@ -1,6 +1,6 @@
-# Pong Game Starter
+# Pong 2: Dark Reunion
 
-A starter project for a basic pong game using SVGs.
+An epic pong game of good vs evil using SVGs.
 
 ## Setup
 
@@ -39,3 +39,17 @@ Once you have done this, you can run:
 `$ npm run deploy`
 
 Now check out your deployed site 🙂
+
+## Technologies Used
+
++ HTML
++ CSS
++ Javascript
+
+## Personal Learnings
+
+This project was my first real foray into javascript.  I learned to import partials and use them elsewhere in my code. I also learned to create and properly use svgs and loops.
+
+### Authors
+Ryan Adrian - Contributed the HTML, CSS, and Javascript
+RED Academy - Created the pong starter

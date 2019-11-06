@@ -4,7 +4,6 @@ import Paddle from "./Paddle.js"
 import Hpaddle from "./Horizontal-Paddle"
 import Ball from "./Ball"
 import Score from "./Score"
-import { url } from "inspector"
 
 export default class Game {
   constructor(element, width, height) {

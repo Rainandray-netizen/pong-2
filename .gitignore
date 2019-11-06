@@ -18,3 +18,5 @@ npm-debug.log
 # Parcel
 .cache
 dist
+
+src/partials/images
